@@ -1,6 +1,7 @@
 {
   "name": "fillout-assignment",
   "version": "1.0.0",
+  "type": "module",
   "description": "Assignment for Fillout",
   "main": "src/index.ts",
   "scripts": {
